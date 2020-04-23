@@ -8,10 +8,10 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
- 
+ https://github.com/robertsforest
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-
+https://www.linkedin.com/in/forest-roberts/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY5Fy%2FtbPQgiCVw607yiVCA%3D%3D
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
